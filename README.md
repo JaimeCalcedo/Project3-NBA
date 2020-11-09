@@ -1,12 +1,12 @@
-#### Project3-NBA
+##### Project3-NBA
 
-### NBA Format Summary 
+#### NBA Format Summary 
 
 The NBA is composed of 30 teams divided into 2 different conferences, the east and the west. The first 8 teams of each conference during the regular season have the chance to compete for the league´s championship title in the playoffs. 
 
 The playoffs, also known as the post season, follow a tournament format. Each team plays an opponent in a best-of-seven series, with the first team to win four games advancing into the next round, while the other team is eliminated from the playoffs. In the next round, the successful team plays against another advancing team of the same conference. All but one team in each conference are eliminated from the playoffs. The final playoff round, a best-of-seven series between the victors of both conferences, is known as the NBA Finals. The winner of the NBA Finals receives the Championship Trophy. 
 
-### Project 
+#### Project 
 
 In the NBA, many players play both the regular and the post season, but, are they capable of making the same shots on a playoff game with all the season on the line? Some are, some aren´t, let´s find out!
 
